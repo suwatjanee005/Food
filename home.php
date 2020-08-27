@@ -9,10 +9,10 @@
                     <br><center>Name : Suwatjanee Punyapoo</center>
                     <br><center>ชื่อเล่น : ใบเฟิร์น</center> 
                     <br><center>Nickname : Fearn</center>
-                    <br><center>อายุ : 20 ปี</center>
+                    <br><center>อายุ : 22 ปี</center>
                     <br><center>ปัจจุบันศึกษาอยู่ที่มหาวิทยาลัยเนชั่น</center> 
                     <br><center>คณะบริหารธุรกิจและรัฐประศาสนศาสตร์</center> 
-                    <br><center>สาขาวิทยาการคอมพิวเตอร์ ชั้นปีที่ 2</center>
+                    <br><center>สาขาวิทยาการคอมพิวเตอร์ ชั้นปีที่ 4</center>
                     <br><center><a href="http://www.nation.ac.th/index2.php?lang=th">Nation University</a></center>
 
                     <br><center>วัน/เดือน/ปี เกิด : 8 กันยายน 2541</center>
